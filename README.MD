@@ -1,3 +1,4 @@
+git remote add https://github.com/Xiaoqiu/go-kit-demo.git
 git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
 git push -u origin main
 
